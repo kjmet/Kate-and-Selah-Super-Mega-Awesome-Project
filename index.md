@@ -37,6 +37,12 @@ Further data display that most students found the course moderatly difficult. Th
 <img src="static\imgs\chart2.png" width="300">
 
 
+Our final graph shows the true correlation between our data. What we found is that students who ranked the class as being more difficult, also expressed greater interest in pre-lecture videos. Considering that many students find the course to be moderately difficult, releasing pre-lecutre videos would likely benefit a large portion of COMP-110 students.
+
+
+
+
+<img src="static\imgs\chart3.png" width="400">
 
 
 # Conclusions 
