@@ -22,9 +22,15 @@ After analyzing the results of the data from Alyssa Lytle's course survey, many 
 ## Data and Analysis
 
 This found that there was some correlation between students who found comp 110 difficult and who belive there shoudl be pre-lecture videos in the class. Those who thought the course was a lower difficulty showed less indication of wanting additional videos. 
+
+
 <img src="static\imgs\chart1.png" width="400">
 
+
+
 Further data display that most students found the course moderatly difficult. The bell shape indicates averages of level 4-5 difficulty, which, in turn, could show a need for additional help for students outside of traditional class hours. 
+
+
 <img src="static\imgs\chart2.png" width="400">
 
 
