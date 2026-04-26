@@ -3,10 +3,15 @@
 layout: default
 ---
 
-# This is a big header
+## Description
 
-<!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="<custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+This website acts as documentation for the University of 
+  North Carolina at Chapel Hill's Computer Science 110 course.
+  These data display slight correlation between students who displayed
+  interest in pre-lecture videos and students who viewed the course as
+  moderately difficult. Using such information, conclusions are formed 
+  that show adding pre-lecture videos to COMP 110 could provide students 
+  with the supplementary information they need to feel successful in the course. 
 
 ## This is a small header
 
