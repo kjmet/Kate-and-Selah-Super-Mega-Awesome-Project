@@ -15,7 +15,7 @@ This website acts as documentation for the University of
   that show adding pre-lecture videos to COMP 110 could provide students 
   with the supplementary information they need to feel successful in the course. 
 
-<img src="static\imgs\image1.png" width="400">
+<img src="static\imgs\image1.png" width="100">
 
 After analyzing the results of the data from Alyssa Lytle's course survey, many students found the course monderatly to extremely difficult. After this finidng we wondered what could be donne to improve student learning? One possible solution we analyzed was providing pre-lecture videos for students. 
 
