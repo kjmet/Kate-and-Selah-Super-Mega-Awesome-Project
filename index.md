@@ -13,6 +13,6 @@ This website acts as documentation for the University of
   that show adding pre-lecture videos to COMP 110 could provide students 
   with the supplementary information they need to feel successful in the course. 
 
-## This is a small header
+## Charts
 
-This is basic paragraph text.
+<img src="static\imgs\chart1.png">
