@@ -15,4 +15,5 @@ This website acts as documentation for the University of
 
 ## Charts
 
-<img src="static\imgs\chart1.png">
+This found ____
+<img src="static\imgs\chart1.png" width="500">
